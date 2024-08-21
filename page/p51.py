@@ -1,0 +1,9 @@
+t=()
+xy=(2560,1440)
+color=128,123,142
+t=xy+color
+print(t[1])
+red,green,blue=color
+print(red)
+print(green)
+print(blue)
